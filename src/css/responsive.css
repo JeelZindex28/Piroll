@@ -1,0 +1,1197 @@
+/*////////////////////////////////////////////////////// Responsive CSS Structure //////////////////////////////////////////////////////*/
+
+
+@media (min-width: 1500px) and (max-width: 1920px){
+
+    /* .container {
+        max-width: 1200px;
+    } */
+    
+}
+
+@media (min-width: 1400px) and (max-width: 1499px){
+
+    .banner-wrp {
+        padding: 80px 0 130px 0;
+    }
+
+    .about-us .about-us-wrp {
+        padding: 90px 350px 90px 350px;
+    }
+
+    .numbers {
+        padding: 70px 0;
+    }
+
+    .work .more-work {
+        padding: 25px 0;
+    }
+
+    .our-work-wrp {
+        padding: 65px 340px 60px;
+    }
+
+    .our-work-video {
+        margin-bottom: 0;
+    }
+
+    .services {
+        padding: 100px 0 0 0;
+    }
+
+    .customer-logos {
+        padding: 45px 0;
+    }
+
+    .contact-us {
+        padding: 70px 0;
+    }
+
+    .footer {
+        padding: 70px 0;
+    }
+
+    .work-page .our-work-wrp {
+        padding: 70px 370px;
+    }
+
+    .about-page {
+        padding: 65px 485px;
+    }
+
+    .pre-next {
+        justify-content: space-between;
+    }
+
+    .pre-next a.prev {
+        position: relative;
+        left: 0;
+    }
+
+    .pre-next a.next {
+        position: relative;
+        right: 0;
+    }
+
+}
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1350px;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1399px){
+    
+    .project-skills .skill-img {
+        padding: 125px 0 125px 0;
+    }
+
+    .work-page .our-work-wrp {
+        padding: 80px 340px;
+    }
+
+    .pre-next a.prev {
+        position: absolute;
+        left: 140px;
+    }
+
+    .about-us .about-us-wrp {
+        padding: 70px 290px;
+    }
+
+    .skill-img {
+       padding: 105px 0  ;
+    }
+
+    .work .more-work {
+        padding: 25px 0;
+    }
+
+    .our-work-wrp {
+        padding: 75px 340px 30px;
+    }
+
+    .our-work-video {
+        margin-bottom: 0px;
+    }
+
+    .services-wrp {
+        margin-bottom: 45px;
+    }
+
+    .testimonial {
+        padding: 105px 0;
+    }
+
+    .slick-dots {
+        bottom: -80px;
+    }
+
+    .customer-logos {
+        padding: 50px 0;
+    }
+
+    .banner-wrp {
+        padding: 85px 0 130px 0;
+    }
+
+    .pre-next a.next {
+        position: absolute;
+        right: 140px;
+    }
+
+    .about-page {
+        padding: 55px 425px;
+    }
+
+    .numbers {
+        padding: 70px 0;
+    }
+
+    .contact-us {
+        padding: 70px 0;
+    }
+
+    .footer {
+        padding: 80px 0;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+
+    /* .container {
+        max-width: 1130px;
+    } */
+
+    .banner-wrp {
+        padding: 65px 0 150px 0;
+    }
+
+    .about-us .about-us-wrp {
+        padding: 55px 290px;
+    }
+
+    .skills-wrp {
+        padding: 140px 0;
+    }
+
+    .numbers {
+        padding: 60px 0;
+    }
+
+    .work .more-work {
+        padding: 25px 0;
+    }
+
+    .our-work-wrp {
+        padding: 60px 340px 40px;
+    }
+
+    .our-work-video {
+        margin-bottom: 20px;
+    }
+
+    .project-skills .skill-img {
+        padding: 115px 0 140px 0;
+    }
+
+    .services {
+        padding: 50px 0 40px 0;
+    }
+
+    .services-wrp {
+        margin-bottom: 40px;
+    }
+
+    .testimonial {
+        padding: 85px 0;
+    }
+
+    .slick-dots {
+        bottom: -70px;
+    }
+
+    .contact-us {
+        padding: 70px 0;
+    }
+
+    .footer {
+        padding: 80px 0
+    }
+
+    .work-page .our-work-wrp {
+        padding: 80px 330px;
+    }
+
+    .about-page {
+        padding: 65px 375px;
+    }
+
+    .pre-next a.prev {
+        position: absolute;
+        left: 60px;
+    }
+
+    .pre-next a.next {
+        position: absolute;
+        right: 60px;
+    }
+
+}
+
+@media (max-width: 1199px){
+
+    /* .container, .container-lg, .container-md, .container-sm {
+        max-width: 930px;
+    } */
+
+    .main-title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .sub-title {
+        padding: 25px 0;
+    }
+
+    .header .navbar-nav .nav-item {
+        padding: 0 12px;
+    }
+
+    .video-container {
+        width: 700px;
+        height: 465px;
+    }
+
+    .banner-wrp {
+        padding: 70px 0 130px 0;
+    }
+
+    .about-us .about-us-wrp {
+        padding: 65px 160px;
+    }
+
+    .skill-img {
+        padding: 120px 0;
+    }
+
+    .skills-wrp {
+        padding: 135px 0;
+    }
+
+    .skills-wrp .skills-contant .progress {
+        width: 420px;
+    }
+
+    .numbers {
+        padding: 45px 0;
+    }
+
+    .numbers .left-number img {
+        width: 40px;
+    }
+
+    .number-wrp .right-number {
+        padding-left: 15px;
+    }
+
+    .work .more-work {
+        padding: 15px 0;
+    }
+
+    .our-work-wrp {
+        padding: 55px 210px;
+    }
+
+    .our-work-video {
+        margin-bottom: 0;
+    }
+
+    .service-icon img {
+        width: 20%;
+    }
+
+    .services {
+        padding: 70px 0 0 0;
+    }
+
+    .testimonial {
+        padding: 75px 0;
+    }
+
+    .myslide p {
+       font-size: 20px;
+       padding: 0 110px;
+    }
+
+    .slick-dots {
+       bottom: -40px;
+    }
+
+    .customer-logos {
+        padding: 45px 0;
+    }
+
+    .contact-us {
+        padding: 50px 0;
+    }
+
+    .contact-wrp {
+        padding: 0 85px 40px 85px;
+    }
+
+    .footer {
+        padding: 60px 0;
+    }
+
+    .btn {
+        padding: 10px 35px;
+    }
+
+    .work-page .our-work-wrp {
+        padding: 65px 230px;
+    }
+
+    .main-heading {
+        font-size: 27px;
+        line-height: 50px;
+    }
+
+    .about-page {
+        padding: 105px 270px;
+    }
+
+    .about-page {
+        padding: 60px 270px;
+    }
+
+    .project-skills .about-us-wrp {
+        padding: 85px 70px 0 0;
+    }
+    
+    .project-skills .skill-img {
+        padding: 150px 0;
+    }
+
+    .pre-next {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 50px;
+    }
+
+    .pre-next a.prev {
+        position: relative;
+        left: 0;
+    }
+
+    .pre-next a.next {
+        position: relative;
+        right: 0;
+    }
+
+    .contact-page {
+        padding: 75px 0 30px 0;
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+    .collapsing {
+        transition: 0s;
+    }
+
+    .navbar .navbar-nav {
+        align-items: center;
+        position: relative;
+        top: 80px;
+    }
+
+    header .navbar .navbar-nav ul li {
+        margin: 0;
+        padding: 20px 0;
+        font-size: 20px;
+    }
+
+    header .navbar .navbar-nav ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        overflow: auto;
+    }
+
+    .header .navbar-nav .nav-item:last-child {
+        padding-right: 0;
+    }
+    
+    .header .navbar-nav .nav-item:first-child {
+        padding-left: 0;
+    }
+    
+    .header .navbar-nav .nav-item {
+        padding: 30px 0;
+    }
+    
+    button.navbar-toggler {
+        border: none;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    
+    .navbar-toggler {
+        border: none;
+        background-color: transparent;
+        position: relative;
+        z-index: 9999;
+        right: -120px;
+    }
+    
+    .navbar-toggler span {
+        background-color: #000;
+        width: 25px;
+        height: 2px;
+        display: block;
+        margin-bottom: 5px;
+        transition: 0.5s;
+        position: relative;
+    }
+    
+    .navbar-toggler span:last-child {
+        margin-bottom: 0;
+    }
+
+    .navbar-toggler.open span:first-child {
+        top: 5px;
+        transform: rotate(45deg);
+    }
+    
+    .navbar-toggler.open span:nth-child(2) {
+        display: none;
+    }
+    
+    .navbar-toggler.open  span:last-child {
+        top: -2px;
+        transform: rotate(-45deg);
+    }
+    
+    .navbar-toggler {
+        right: 0;
+    }
+
+    .navbar-collapse {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        max-width: 100%;
+        width: 100%;
+        bottom: 0;
+        height: 100%;
+        overflow: auto;
+        background-color: #fff;
+        transition: 0.5s;
+    }
+
+    .navbar-collapse.show {
+        right: 0;
+        height: auto;
+    }
+
+    .navbar .navbar-nav {
+        align-items: center;
+    }
+
+    header .navbar .navbar-nav ul li {
+        margin: 0;
+        padding: 20px 0;
+        font-size: 20px;
+    }
+
+    header .navbar .navbar-nav ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        overflow: auto;
+    }
+
+    
+    /* .container, .container-lg, .container-md, .container-sm {
+        max-width: 850px;
+    } */
+
+    .banner-wrp {
+        padding: 20px 0 70px 0;
+    }
+
+    .banner-main {
+        padding-left: 10px;
+    }
+
+    .main-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .about-us .about-us-wrp {
+        padding: 45px 40px;
+    }
+
+    .skills-wrp .skills-contant .progress {
+        width: 90%;
+    }
+
+    .skills-wrp {
+        padding: 115px 0;
+    }
+
+    .sub-title {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .btn {
+        padding: 8px 20px;
+    }
+
+    .main-heading {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .skills .skills-contant {
+        padding-bottom: 15px;
+    }
+
+    .numbers .left-number img {
+        width: 45px;
+    }
+
+    .numbers .number-wrp {
+        padding-bottom: 25px ;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .numbers {
+        padding: 45px 0 15px 0;
+    }
+
+    .our-work-wrp {
+        padding: 55px 90px;
+    }
+
+    .video-container {
+        width: 100%;
+        height: 465px;
+    }
+
+    .service-contain {
+        padding: 0 40px;
+    }
+
+    .services-wrp {
+        margin-bottom: 30px;
+    }
+
+    .service-icon img {
+        width: 15%;
+    }
+
+    .myslide p {
+        padding: 0 73px;
+        font-size: 17px;
+    }
+
+    .footer .row>* {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .work-page .our-work-wrp {
+        padding: 65px 130px;
+    }
+
+    .about-page {
+        padding: 50px 180px;
+    }
+
+    .about-page-skills .about-us-wrp {
+        padding: 20px 0 0 0;
+    }
+
+    .project-wrp {
+        padding: 60px 0 0;
+    }
+
+    .project-skills .about-us-wrp {
+        padding: 45px 0 0 0;
+    }
+
+    .project-wrp {
+        padding: 40px 0 0;
+    }
+
+    .contact-page .about-us-wrp {
+        padding-right: 0;
+    }
+
+    .header {
+        padding: 20px 0;
+    }
+
+}
+
+@media (min-width: 768px) {  
+
+}
+
+@media (max-width: 767px) {
+
+    .collapsing {
+        transition: 0s;
+    }
+
+    .navbar .navbar-nav {
+        align-items: center;
+        position: relative;
+        /* top: 80px; */
+    }
+
+    header .navbar .navbar-nav ul li {
+        margin: 0;
+        padding: 20px 0;
+        font-size: 20px;
+    }
+
+    header .navbar .navbar-nav ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        overflow: auto;
+    }
+
+    .header .navbar-nav .nav-item:last-child {
+        padding-right: 0;
+    }
+    
+    .header .navbar-nav .nav-item:first-child {
+        padding-left: 0;
+    }
+    
+    .header .navbar-nav .nav-item {
+        padding: 15px 0;
+    }
+    
+    button.navbar-toggler {
+        border: none;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    
+    .navbar-toggler {
+        border: none;
+        background-color: transparent;
+        position: relative;
+        z-index: 9999;
+        right: -120px;
+    }
+    
+    .navbar-toggler span {
+        background-color: #000;
+        width: 25px;
+        height: 2px;
+        display: block;
+        margin-bottom: 5px;
+        transition: 0.5s;
+        position: relative;
+    }
+    
+    .navbar-toggler span:last-child {
+        margin-bottom: 0;
+    }
+
+    .navbar-toggler.open span:first-child {
+        top: 5px;
+        transform: rotate(45deg);
+    }
+    
+    .navbar-toggler.open span:nth-child(2) {
+        display: none;
+    }
+    
+    .navbar-toggler.open  span:last-child {
+        top: -2px;
+        transform: rotate(-45deg);
+    }
+    
+    .navbar-toggler {
+        right: 0;
+    }
+
+    .navbar-collapse {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        max-width: 100%;
+        width: 100%;
+        bottom: 0;
+        height: 100%;
+        overflow: auto;
+        padding: 80px 50px;
+        background-color: #fff;
+        transition: 0.5s;
+    }
+
+    .navbar-collapse::before {
+        content: "";
+        position: fixed;
+        width: 100%;
+        height: 80px;
+        top: 0;
+        right: -100%;
+        background-color: #fff;
+        transition: 0.5s;
+        z-index: 9;
+    }
+
+    .navbar-collapse.show::before {
+        right: 0;
+    }
+
+    .navbar-collapse.show {
+        right: 0;
+        height: auto;
+    }
+
+    /* menu */
+
+    .header {
+        padding: 20px 0;
+        position: relative;
+        z-index: 99;
+    }
+
+    .banner-tb {
+        display: flex;
+        align-items: center;
+    }
+
+    .banner-main {
+        padding-left: 0;
+    }
+
+    .main-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    
+    .sub-title {
+        font-size: 16px;
+    }
+    
+    .banner-wrp {
+        padding: 20px 0 50px 0;
+    }
+    
+    .btn {
+        padding: 8px 20px;
+    }
+    
+    .about-us .about-us-wrp {
+        padding: 45px 30px;
+    }
+    
+    .skills-wrp .skills-contant .progress {
+        width: 95%;
+    }
+    
+    .skills-wrp {
+        padding: 65px 0;
+    }
+    
+    .main-heading {
+        font-size: 23px;
+    }
+    
+    .skills .skills-contant {
+        padding-bottom: 15px;
+    }
+    
+    .skill-img {
+        padding: 95px 0;
+    }
+    
+    .numbers {
+        padding: 35px 0;
+    }
+    
+    .our-work-wrp {
+        padding: 55px 51px;
+    }
+    
+    .video-container {
+        width: 100%;
+        height: 330px;
+    }
+    
+    .services {
+        padding: 50px 0 0 0;
+    }
+    
+    .services-wrp {
+        margin-bottom: 30px;
+    }
+    
+    .myslide p {
+        font-size: 15px;
+        padding: 0 15px;
+        line-height: 28px;
+    }
+    
+    .testimonial {
+        padding: 65px 0;
+    }
+    
+    .contact-us {
+        padding: 40px 0;
+    }
+    
+    .contact-wrp {
+        padding: 0 25px 30px;
+    }
+    
+    .footer {
+        padding: 40px 0;
+    }
+    
+    .footer-tb {
+        display: flex;
+        justify-content: end;
+    }
+
+    .slick-dots {
+        left: 45%;
+    }
+
+    .work-page .our-work-wrp {
+        padding: 45px 35px;
+    }
+
+    .about-page {
+        padding: 40px 150px;
+    }
+
+    .about-page-skills .about-us-wrp {
+        padding: 10px 0 0 0;
+    }
+
+    .sub-heading {
+        font-size: 15px;
+    }
+
+    .about-page-skills .about-us-wrp .sub-heading p:last-child {
+        margin-top: 18px;
+    }
+
+    .about-page-skills .signature {
+        width: 180px;
+        height: auto;
+    }
+
+    .main-heading {
+       margin-bottom: 5px;
+    }
+
+    .about-page-skills .skill-img {
+        padding: 125px 0;
+    }
+
+    .project-skills .about-us-wrp {
+        padding: 15px 0 0 0;
+    }
+
+    .project-skills .about-us-wrp .sub-heading p:last-child {
+        margin-top: 18px;
+    }
+    
+    .project-wrp {
+        padding: 30px 0 30px;
+    }
+    
+    .project-wrp ul li span {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+    
+    .pre-next {
+        padding: 15px 50px;
+    }
+
+    .project-skills .skill-img {
+        padding: 165px 0;
+    }
+
+    .contact-page .about-us-wrp {
+        padding-right: 0;
+    }
+
+    .contact-page {
+        padding: 40px 0 30px 0;
+    }
+
+    .contact-us {
+        padding: 40px 0 40px;
+    }
+
+    .slick-dots li {
+        width: 10px !important;
+        height: 10px !important;
+    }
+
+    .slick-dots {
+        bottom: -35px !important;
+    }
+}
+
+/*---------- Small Mobile , IPhone Start ----------*/
+
+/*=== Screen Size = 240, 320, 360, 480, 568 ===*/
+@media (min-width: 576px) and (max-width: 767px){
+
+    .about-page {
+        padding: 25px 80px;
+    }
+    .navbar .navbar-nav {
+        align-items: center;
+        position: relative;
+        top: 80px;
+    }
+
+    header .navbar .navbar-nav ul li {
+        margin: 0;
+        padding: 20px 0;
+        font-size: 20px;
+    }
+
+    header .navbar .navbar-nav ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        overflow: auto;
+    }
+
+    .header .navbar-nav .nav-item:last-child {
+        padding-right: 0;
+    }
+    
+    .header .navbar-nav .nav-item:first-child {
+        padding-left: 0;
+    }
+    
+    .header .navbar-nav .nav-item {
+        padding: 30px 0;
+    }
+    
+    button.navbar-toggler {
+        border: none;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    
+    .navbar-toggler {
+        border: none;
+        background-color: transparent;
+        position: relative;
+        z-index: 9999;
+        right: -120px;
+    }
+    
+    .navbar-toggler span {
+        background-color: #000;
+        width: 25px;
+        height: 2px;
+        display: block;
+        margin-bottom: 5px;
+        transition: 0.5s;
+        position: relative;
+    }
+    
+    .navbar-toggler span:last-child {
+        margin-bottom: 0;
+    }
+
+    .navbar-toggler.open span:first-child {
+        top: 5px;
+        transform: rotate(45deg);
+    }
+    
+    .navbar-toggler.open span:nth-child(2) {
+        display: none;
+    }
+    
+    .navbar-toggler.open  span:last-child {
+        top: -2px;
+        transform: rotate(-45deg);
+    }
+    
+    .navbar-toggler {
+        right: 0;
+    }
+
+    .navbar-collapse {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        max-width: 100%;
+        width: 100%;
+        bottom: 0;
+        height: 100%;
+        overflow: auto;
+        background-color: #fff;
+        transition: 0.5s;
+    }
+
+    .navbar-collapse.show {
+        right: 0;
+        height: auto;
+    }
+
+}
+
+@media (min-width: 240px) and (max-width: 575px){
+
+    .modal-dialog {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+
+    .main-title {
+        font-size: 22px;
+        line-height: 30px;
+        padding: 20px 0 0 0;
+    }
+
+    .skill-img::after {
+        left: -20px;
+    }
+
+    .numbers .number-wrp {
+        padding-bottom: 20px;
+    }
+
+    .numbers {
+        padding: 35px 0 10px 0;
+    }
+
+    .work .more-work {
+        padding: 0 0;
+    }
+
+    .our-work-wrp {
+        padding: 25px 20px;
+    }
+
+    svg#Capa_1 {
+        width: 80px;
+        height: 50px;
+    }
+
+    .video-container {
+        width: 100%;
+        height: 325px;
+    }
+
+    .service-icon img {
+        width: 10%;
+    }
+
+    .slick-dots {
+        left: 40%;
+    }
+
+    .slick-dots li {
+        height: 6px;
+        width: 6px;
+    }
+
+    /* .slick-dots li.slick-active {
+        height: 8px;
+        width: 8px;
+    } */
+    
+
+    .footer-tb {
+        display: block;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .work-page .our-work-wrp {
+        padding: 25px 15px;
+    }
+
+    .main-heading {
+        font-size: 18px;
+        line-height: 45px;
+    }
+
+    .about-page {
+        padding: 30px 15px;
+    }
+
+    .about-page {
+        padding: 30px 35px;
+    }
+    
+    .sub-heading {
+        font-size: 14px;
+    }
+
+    .about-page-skills .skill-img::after {
+       right: -25px;
+    }
+
+    .project-skills .skill-img::after {
+        left: -20px;
+    }
+
+    .pre-next {
+        font-size: 10px;
+        padding: 15px 10px;
+    }
+
+    .contact-page-wrp {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .form {
+        overflow: hidden;
+    }
+
+    .number-tb {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+
